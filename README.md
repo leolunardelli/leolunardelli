@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leolunardelli
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning Javascrit and Tyscript focused on React
+- 👀 I’m interested in development
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on learning and grow as a developer
 - 📫 How to reach me linkedin/in/leolunardelli
 
