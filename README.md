@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @leolunardelli
-- 👀 I’m interested in development
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on learning and grow as a developer
-- 📫 How to reach me linkedin/in/leolunardelli
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on learning and grow as a frontend developer also QA tester
+- 📫 How to reach me https://www.linkedin.com/in/leolunardelli
 
 <!---
 leolunardelli/leolunardelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
