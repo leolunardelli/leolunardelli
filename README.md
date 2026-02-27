@@ -1,77 +1,77 @@
-﻿# Leonardo Lunardelli
+# Leonardo Lunardelli
 
 <div align="center">
 
-### Fullstack Developer | Next.js  TypeScript  PostgreSQL  AI
+### Recent ADS Graduate | End-to-End Published Projects
 
-[![Portfolio](https://img.shields.io/badge/_Live_Project-ExpenseFlow-6366f1?style=for-the-badge)](https://y-nine-flame.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leolunardelli)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:leo.luna94@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ExpenseFlow-6366f1?style=for-the-badge)](https://y-nine-flame.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-leolunardelli-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leolunardelli)
+[![Email](https://img.shields.io/badge/Email-leo.luna94-EA4335?style=for-the-badge&logo=gmail)](mailto:leo.luna94@gmail.com)
 
- Caxias do Sul, RS 
+📍 Caxias do Sul, RS · 🎓 Systems Analysis & Development — Estácio University
 
 </div>
 
 ---
 
-##  Featured Project
+## About Me
 
-<div align="center">
+Recent **Systems Analysis and Development** graduate with no prior professional experience — but with **production-deployed, end-to-end projects** that demonstrate real-world skills across the full stack, QA automation, and data analysis.
 
-### [ ExpenseFlow - AI-Powered Expense Tracker](https://github.com/leolunardelli/expanse-tracker)
+I learn by building. Every project in my portfolio was designed, coded, tested, and deployed by me — from database schema to CI pipeline to live URL.
 
-**[ Live Demo](https://y-nine-flame.vercel.app)**  Full-stack app with AI insights
+**Currently seeking my first opportunity** in software development, QA, or data/BI roles.
 
-</div>
+---
 
-| Stack | Technologies |
-|-------|--------------|
+## Featured Project
+
+### [ExpenseFlow — AI-Powered Expense Tracker](https://github.com/leolunardelli/expanse-tracker)
+
+> Full-stack finance app with AI insights · [**Live Demo →**](https://y-nine-flame.vercel.app/)
+
+| Layer | Stack |
+|-------|-------|
 | **Frontend** | Next.js 15, React 19, TypeScript, Tailwind CSS |
 | **Backend** | Server Actions, NextAuth.js, Prisma ORM |
 | **Database** | PostgreSQL (Neon) |
 | **AI** | OpenAI GPT-4o-mini |
+| **CI/CD** | GitHub Actions (lint → type-check → build) |
 | **Deploy** | Vercel |
 
-**Features:**  Google OAuth   Analytics Dashboard   Budget Goals   AI Spending Predictions   Saving Tips
+**Highlights:** Google OAuth · Analytics Dashboard · Budget Goals · AI Spending Predictions · Saving Tips · Dark Mode · PWA
 
 ---
 
-##  About Me
+## Tech Stack
 
-Fullstack Developer with experience building production-ready web applications.
+<div align="center">
 
--  **Systems Analysis and Development** - Estácio University
--  **Stack:** Next.js, React, TypeScript, Node.js, PostgreSQL, Prisma
--  **AI Integration:** OpenAI APIs for smart features
--  **Testing:** Cypress E2E experience
--  **Deployed:** Production apps on Vercel
+| Frontend | Backend | Database | AI | DevOps | Testing |
+|----------|---------|----------|----|--------|---------|
+| Next.js | Node.js | PostgreSQL | OpenAI GPT-4 | Git | Cypress |
+| React | Prisma | Neon | Vercel AI SDK | GitHub Actions | Jest |
+| TypeScript | NextAuth.js | | | Docker | |
+| Tailwind CSS | REST APIs | | | Vercel | |
 
----
-
-##  Tech Stack
-
-\\\
-Frontend     Next.js  React  TypeScript  Tailwind CSS
-Backend      Node.js  Prisma  NextAuth.js  REST APIs
-Database     PostgreSQL  Neon
-AI           OpenAI GPT-4  Vercel AI SDK
-DevOps       Git  Vercel  GitHub
-Testing      Cypress  Jest
-\\\
+</div>
 
 ---
 
-##  Projects
+## Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [ ExpenseFlow](https://github.com/leolunardelli/expanse-tracker) | AI expense tracker with auth & analytics | Next.js, PostgreSQL, OpenAI |
-| [ Login Helper](https://github.com/leolunardelli/login-helper) | Auth system with validation | HTML, CSS, JavaScript |
-| [ Cypress E2E](https://github.com/leolunardelli/picture-website-cypress-testingE2E) | Test automation | Cypress, Mocha |
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **[ExpenseFlow](https://github.com/leolunardelli/expanse-tracker)** | AI expense tracker with auth, analytics & budget | Next.js, PostgreSQL, OpenAI | [Demo](https://y-nine-flame.vercel.app/) |
+| **[Login Helper](https://github.com/leolunardelli/login-helper)** | Auth system with real-time validation | HTML, CSS, JavaScript | [Demo](https://leolunardelli.github.io/login-helper/) |
+| **[Cypress E2E Tests](https://github.com/leolunardelli/picture-website-cypress-testingE2E)** | Test automation suite for a gallery website | Cypress, JavaScript, Mocha | — |
+| **[QA Showcase](https://github.com/leolunardelli/qa-showcase)** | Cypress test suite with CI artifacts | Cypress, GitHub Actions | — |
+| **[BI Showcase](https://github.com/leolunardelli/bi-showcase)** | Data analysis with SQL + dashboards | Python, SQL, Pandas | — |
+| **[Infra Basics](https://github.com/leolunardelli/infra-devops-basics)** | Docker + Compose + CI pipeline | Docker, GitHub Actions | — |
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -83,17 +83,15 @@ Testing      Cypress  Jest
 
 ---
 
-##  Contact
+## Contact
 
 - **LinkedIn:** [linkedin.com/in/leolunardelli](https://www.linkedin.com/in/leolunardelli)
-- **Email:** leo.luna94@gmail.com
-- **Portfolio:** [ExpenseFlow](https://y-nine-flame.vercel.app)
+- **Email:** [leo.luna94@gmail.com](mailto:leo.luna94@gmail.com)
+- **Portfolio:** [ExpenseFlow](https://y-nine-flame.vercel.app/)
 
----
+> **Open to opportunities** — software development, QA, BI/data analysis
 
 <div align="center">
-
-**Open to opportunities** 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=leolunardelli&color=6366f1&style=flat)
 
