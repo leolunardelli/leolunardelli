@@ -4,7 +4,7 @@
 
 ### Recent ADS Graduate | End-to-End Published Projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ExpenseFlow-6366f1?style=for-the-badge)](https://y-nine-flame.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ExpenseFlow-6366f1?style=for-the-badge)](https://expanseflow.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leolunardelli-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leolunardelli)
 [![Email](https://img.shields.io/badge/Email-leo.luna94-EA4335?style=for-the-badge&logo=gmail)](mailto:leo.luna94@gmail.com)
 
@@ -28,7 +28,7 @@ I learn by building. Every project in my portfolio was designed, coded, tested, 
 
 ### [ExpenseFlow — AI-Powered Expense Tracker](https://github.com/leolunardelli/expanse-tracker)
 
-> Full-stack finance app with AI insights · [**Live Demo →**](https://y-nine-flame.vercel.app/)
+> Full-stack finance app with AI insights · [**Live Demo →**](https://expanseflow.vercel.app/)
 
 | Layer | Stack |
 |-------|-------|
@@ -62,7 +62,7 @@ I learn by building. Every project in my portfolio was designed, coded, tested, 
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
-| **[ExpenseFlow](https://github.com/leolunardelli/expanse-tracker)** | AI expense tracker with auth, analytics & budget | Next.js, PostgreSQL, OpenAI | [Demo](https://y-nine-flame.vercel.app/) |
+| **[ExpenseFlow](https://github.com/leolunardelli/expanse-tracker)** | AI expense tracker with auth, analytics & budget | Next.js, PostgreSQL, OpenAI | [Demo](https://expanseflow.vercel.app/) |
 | **[Login Helper](https://github.com/leolunardelli/login-helper)** | Auth system with real-time validation | HTML, CSS, JavaScript | [Demo](https://leolunardelli.github.io/login-helper/) |
 | **[Cypress E2E Tests](https://github.com/leolunardelli/picture-website-cypress-testingE2E)** | Test automation suite for a gallery website | Cypress, JavaScript, Mocha | — |
 | **[QA Showcase](https://github.com/leolunardelli/qa-showcase)** | Cypress test suite with CI artifacts | Cypress, GitHub Actions | — |
@@ -87,7 +87,7 @@ I learn by building. Every project in my portfolio was designed, coded, tested, 
 
 - **LinkedIn:** [linkedin.com/in/leolunardelli](https://www.linkedin.com/in/leolunardelli)
 - **Email:** [leo.luna94@gmail.com](mailto:leo.luna94@gmail.com)
-- **Portfolio:** [ExpenseFlow](https://y-nine-flame.vercel.app/)
+- **Portfolio:** [ExpenseFlow](https://expanseflow.vercel.app/)
 
 > **Open to opportunities** — software development, QA, BI/data analysis
 
